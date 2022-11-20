@@ -1,0 +1,13 @@
+шрифт с засечками для заголовков -все буквы заглавные
+https://fonts.google.com/specimen/Libre+Caslon+Display?subset=latin&preview.text=events&preview.text_type=custom&query=libre
+
+шрифт для основного текста прописные (Не курсив)
+roboto 
+
+цвета:
+строка навигации R:188 G:139 B:81 #BC8B51
+блок знакомства R:227 G:210 B:192 #E3D2C0
+любовные фразы R:67 G:43 B:17 #432B11
+серый R:243 G:240 B:235 #F3F0EB
+portfolio  R:229 G:215 B:202 #E5D7CA
+футер R:33 G:33 B:33 #212121
